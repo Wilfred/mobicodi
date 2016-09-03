@@ -3,6 +3,9 @@
 A braindump of ideas: what would a mobile-first programming language
 look like?
 
+These notes are [CC-BY](https://creativecommons.org/licenses/by/4.0/),
+any code will be GPL-v3.
+
 ## Inspirations
 
 * Type-based refinement
