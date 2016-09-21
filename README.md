@@ -26,3 +26,4 @@ Coding on larger touchscreens:
 
 * [Lisping](http://slidetocode.com/lisping) (see the
   [videos](https://www.youtube.com/channel/UCaMcFjje9sQHnNllR_P8AzA))
+* [swift playgrounds](https://developer.apple.com/swift/playgrounds/)
