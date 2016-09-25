@@ -9,7 +9,6 @@ any code will be GPL-v3.
 ## Inspirations
 
 * Type-based refinement
-* Structured editing (paredit, lispy)
 * Smalltalk
 
 ## Other projects
@@ -27,3 +26,10 @@ Coding on larger touchscreens:
 * [Lisping](http://slidetocode.com/lisping) (see the
   [videos](https://www.youtube.com/channel/UCaMcFjje9sQHnNllR_P8AzA))
 * [swift playgrounds](https://developer.apple.com/swift/playgrounds/)
+
+Structured editing:
+
+* Paredit (see
+  [The Animated Guide to Paredit](http://danmidwood.com/content/2014/11/21/animated-paredit.html))
+* [Lispy](https://github.com/abo-abo/lispy)
+* Unison (see [About Unison](http://unisonweb.org/2015-05-07/about.html#post-start))
