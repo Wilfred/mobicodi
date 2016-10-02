@@ -33,3 +33,13 @@ Structured editing:
   [The Animated Guide to Paredit](http://danmidwood.com/content/2014/11/21/animated-paredit.html))
 * [Lispy](https://github.com/abo-abo/lispy)
 * Unison (see [About Unison](http://unisonweb.org/2015-05-07/about.html#post-start))
+
+UIs that promote fiddling:
+
+* Browser consoles, especially Firefox's persistent script editor
+* Emacs (modifying settings is just setting variables)
+* Squeak's 'halos' allow a level of UI fiddling that even beats a web
+  browser
+* [Hyperdev](https://hyperdev.com) has a good stripped-down UI
+
+Arguably minecraft is in this same category.
